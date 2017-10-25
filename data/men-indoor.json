@@ -1,0 +1,218 @@
+[
+  {
+    "Competitor": "Donovan Bailey", 
+    "Country": "CAN", 
+    "DOB": "16 DEC 1967", 
+    "Date": "09 FEB 1996", 
+    "Discipline": "50 Metres", 
+    "Perf": "5.56", 
+    "Venue": "Reno, NV"
+  }, 
+  {
+    "Competitor": "Maurice Greene", 
+    "Country": "USA", 
+    "DOB": "23 JUL 1974", 
+    "Date": "03 FEB 1998", 
+    "Discipline": "60 Metres", 
+    "Perf": "6.39", 
+    "Venue": "Madrid (Palacio de los Deportes)"
+  }, 
+  {
+    "Competitor": "Maurice Greene", 
+    "Country": "USA", 
+    "DOB": "23 JUL 1974", 
+    "Date": "03 MAR 2001", 
+    "Discipline": "60 Metres", 
+    "Perf": "6.39", 
+    "Venue": "Atlanta (Georgiadome), GA"
+  }, 
+  {
+    "Competitor": "Frank Fredericks", 
+    "Country": "NAM", 
+    "DOB": "02 OCT 1967", 
+    "Date": "18 FEB 1996", 
+    "Discipline": "200 Metres", 
+    "Perf": "19.92", 
+    "Venue": "Li\u00e9vin (Palais des Sports)"
+  }, 
+  {
+    "Competitor": "Kerron Clement", 
+    "Country": "USA", 
+    "DOB": "31 OCT 1985", 
+    "Date": "12 MAR 2005", 
+    "Discipline": "400 Metres", 
+    "Perf": "44.57", 
+    "Venue": "Fayetteville (Randall Tyson TC), AR"
+  }, 
+  {
+    "Competitor": "Wilson Kipketer", 
+    "Country": "DEN", 
+    "DOB": "12 DEC 1972", 
+    "Date": "09 MAR 1997", 
+    "Discipline": "800 Metres", 
+    "Perf": "1:42.67", 
+    "Venue": "Paris-Bercy (Palais Omnisports)"
+  }, 
+  {
+    "Competitor": "Ayanleh Souleiman", 
+    "Country": "DJI", 
+    "DOB": "03 DEC 1992", 
+    "Date": "17 FEB 2016", 
+    "Discipline": "1000 Metres", 
+    "Perf": "2:14.20", 
+    "Venue": "Stockholm (Globe Arena)"
+  }, 
+  {
+    "Competitor": "Hicham El Guerrouj", 
+    "Country": "MAR", 
+    "DOB": "14 SEP 1974", 
+    "Date": "02 FEB 1997", 
+    "Discipline": "1500 Metres", 
+    "Perf": "3:31.18", 
+    "Venue": "Stuttgart (Schleyer Halle)"
+  }, 
+  {
+    "Competitor": "Hicham El Guerrouj", 
+    "Country": "MAR", 
+    "DOB": "14 SEP 1974", 
+    "Date": "12 FEB 1997", 
+    "Discipline": "One Mile", 
+    "Perf": "3:48.45", 
+    "Venue": "Gent"
+  }, 
+  {
+    "Competitor": "Daniel Komen", 
+    "Country": "KEN", 
+    "DOB": "17 MAY 1976", 
+    "Date": "06 FEB 1998", 
+    "Discipline": "3000 Metres", 
+    "Perf": "7:24.90", 
+    "Venue": "Budapest"
+  }, 
+  {
+    "Competitor": "Kenenisa Bekele", 
+    "Country": "ETH", 
+    "DOB": "13 JUN 1982", 
+    "Date": "20 FEB 2004", 
+    "Discipline": "5000 Metres", 
+    "Perf": "12:49.60", 
+    "Venue": "Birmingham (NIA), GBR"
+  }, 
+  {
+    "Competitor": "Mark McKoy", 
+    "Country": "CAN", 
+    "DOB": "10 DEC 1961", 
+    "Date": "05 MAR 1986", 
+    "Discipline": "50 Metres Hurdles", 
+    "Perf": "6.25", 
+    "Venue": "Kobe"
+  }, 
+  {
+    "Competitor": "Colin Jackson", 
+    "Country": "GBR", 
+    "DOB": "18 FEB 1967", 
+    "Date": "06 MAR 1994", 
+    "Discipline": "60 Metres Hurdles", 
+    "Perf": "7.30", 
+    "Venue": "Sindelfingen"
+  }, 
+  {
+    "Competitor": "Javier Sotomayor", 
+    "Country": "CUB", 
+    "DOB": "13 OCT 1967", 
+    "Date": "04 MAR 1989", 
+    "Discipline": "High Jump", 
+    "Perf": "2.43", 
+    "Venue": "Budapest (Sportcsarnok)"
+  }, 
+  {
+    "Competitor": "Renaud Lavillenie", 
+    "Country": "FRA", 
+    "DOB": "18 SEP 1986", 
+    "Date": "15 FEB 2014", 
+    "Discipline": "Pole Vault", 
+    "Perf": "6.16", 
+    "Venue": "Donetsk (Sport Palace Druzhba)"
+  }, 
+  {
+    "Competitor": "Carl Lewis", 
+    "Country": "USA", 
+    "DOB": "1 JUL 1961", 
+    "Date": "27 JAN 1984", 
+    "Discipline": "Long Jump", 
+    "Perf": "8.79", 
+    "Venue": "New York (MSG), NY"
+  }, 
+  {
+    "Competitor": "Teddy Tamgho", 
+    "Country": "FRA", 
+    "DOB": "15 JUN 1989", 
+    "Date": "06 MAR 2011", 
+    "Discipline": "Triple Jump", 
+    "Perf": "17.92", 
+    "Venue": "Paris-Bercy (Palais Omnisports)"
+  }, 
+  {
+    "Competitor": "Teddy Tamgho", 
+    "Country": "FRA", 
+    "DOB": "15 JUN 1989", 
+    "Date": "06 MAR 2011", 
+    "Discipline": "Triple Jump", 
+    "Perf": "17.92", 
+    "Venue": "Paris-Bercy (Palais Omnisports)"
+  }, 
+  {
+    "Competitor": "Randy Barnes", 
+    "Country": "USA", 
+    "DOB": "16 JUN 1966", 
+    "Date": "20 JAN 1989", 
+    "Discipline": "Shot Put", 
+    "Perf": "22.66", 
+    "Venue": "Los Angeles (LA Sport Arena), CA"
+  }, 
+  {
+    "Competitor": "Ashton Eaton", 
+    "Country": "USA", 
+    "DOB": "21 JAN 1988", 
+    "Date": "10 MAR 2012", 
+    "Discipline": "Heptathlon", 
+    "Perf": "6645", 
+    "Venue": "Istanbul (Atak\u00f6y Arena)"
+  }, 
+  {
+    "Competitor": "Mikhail Shchennikov", 
+    "Country": "RUS", 
+    "DOB": "24 DEC 1967", 
+    "Date": "14 FEB 1995", 
+    "Discipline": "5000 Metres Race Walk", 
+    "Perf": "18:07.08", 
+    "Venue": "Moskva"
+  }, 
+  {
+    "Competitor": "Great Britain & N.I.", 
+    "Country": "GBR", 
+    "DOB": "", 
+    "Date": "03 MAR 1991", 
+    "Discipline": "4x200 Metres Relay", 
+    "Perf": "1:22.11", 
+    "Venue": "Glasgow"
+  }, 
+  {
+    "Competitor": "United States", 
+    "Country": "USA", 
+    "DOB": "", 
+    "Date": "09 MAR 2014", 
+    "Discipline": "4x400 Metres Relay", 
+    "Perf": "3:02.13", 
+    "Venue": "Sopot (Ergo Arena)"
+  }, 
+  {
+    "Competitor": "USA All Stars", 
+    "Country": "USA", 
+    "DOB": "", 
+    "Date": "08 FEB 2014", 
+    "Discipline": "4x800 Metres Relay", 
+    "Perf": "7:13.11", 
+    "Venue": "Boston (Reggie Lewis), MA"
+  }
+]

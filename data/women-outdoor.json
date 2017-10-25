@@ -1,0 +1,582 @@
+[
+  {
+    "Competitor": "Florence Griffith-Joyner", 
+    "Country": "USA", 
+    "DOB": "21 DEC 1959", 
+    "Date": "16 JUL 1988", 
+    "Discipline": "100 Metres", 
+    "Perf": "10.49", 
+    "Venue": "Indianapolis (University Stadium), IN", 
+    "Wind": "0.0"
+  }, 
+  {
+    "Competitor": "Florence Griffith-Joyner", 
+    "Country": "USA", 
+    "DOB": "21 DEC 1959", 
+    "Date": "29 SEP 1988", 
+    "Discipline": "200 Metres", 
+    "Perf": "21.34", 
+    "Venue": "Seoul (Olympic Stadium)", 
+    "Wind": "+1.3"
+  }, 
+  {
+    "Competitor": "Marita Koch", 
+    "Country": "GDR", 
+    "DOB": "18 FEB 1957", 
+    "Date": "06 OCT 1985", 
+    "Discipline": "400 Metres", 
+    "Perf": "47.60", 
+    "Venue": "Canberra (Bruce Stadium)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Jarmila Kratochv\u00edlov\u00e1", 
+    "Country": "TCH", 
+    "DOB": "26 JAN 1951", 
+    "Date": "26 JUL 1983", 
+    "Discipline": "800 Metres", 
+    "Perf": "1:53.28", 
+    "Venue": "M\u00fcnchen (Olympiastadion)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Svetlana Masterkova", 
+    "Country": "RUS", 
+    "DOB": "17 JAN 1968", 
+    "Date": "23 AUG 1996", 
+    "Discipline": "1000 Metres", 
+    "Perf": "2:28.98", 
+    "Venue": "Bruxelles", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Genzebe Dibaba", 
+    "Country": "ETH", 
+    "DOB": "08 FEB 1991", 
+    "Date": "17 JUL 2015", 
+    "Discipline": "1500 Metres", 
+    "Perf": "3:50.07", 
+    "Venue": "Monaco (Stade Louis II)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Svetlana Masterkova", 
+    "Country": "RUS", 
+    "DOB": "17 JAN 1968", 
+    "Date": "14 AUG 1996", 
+    "Discipline": "One Mile", 
+    "Perf": "4:12.56", 
+    "Venue": "Z\u00fcrich", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Genzebe Dibaba", 
+    "Country": "ETH", 
+    "DOB": "08 FEB 1991", 
+    "Date": "07 FEB 2017", 
+    "Discipline": "2000 Metres", 
+    "Perf": "5:23.75  (i)", 
+    "Venue": "Sabadell (PC Catalunya)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Junxia Wang", 
+    "Country": "CHN", 
+    "DOB": "09 JAN 1973", 
+    "Date": "13 SEP 1993", 
+    "Discipline": "3000 Metres", 
+    "Perf": "8:06.11", 
+    "Venue": "Beijing (NOCAS)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Tirunesh Dibaba", 
+    "Country": "ETH", 
+    "DOB": "01 JUN 1985", 
+    "Date": "06 JUN 2008", 
+    "Discipline": "5000 Metres", 
+    "Perf": "14:11.15", 
+    "Venue": "Oslo (Bislett)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Almaz Ayana", 
+    "Country": "ETH", 
+    "DOB": "21 NOV 1991", 
+    "Date": "12 AUG 2016", 
+    "Discipline": "10,000 Metres", 
+    "Perf": "29:17.45", 
+    "Venue": "Rio de Janeiro (Est\u00e1dio Ol\u00edmpico)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Joyciline Jepkosgei", 
+    "Country": "KEN", 
+    "DOB": "08 DEC 1993", 
+    "Date": "09 SEP 2017", 
+    "Discipline": "10 Kilometres", 
+    "Perf": "29:43* Mx", 
+    "Venue": "Praha", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Joyciline Jepkosgei", 
+    "Country": "KEN", 
+    "DOB": "08 DEC 1993", 
+    "Date": "01 APR 2017", 
+    "Discipline": "10 Kilometres", 
+    "Perf": "30:04 Mx", 
+    "Venue": "Praha", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Asmae Leghzaoui", 
+    "Country": "MAR", 
+    "DOB": "30 AUG 1976", 
+    "Date": "08 JUN 2002", 
+    "Discipline": "10 Kilometres", 
+    "Perf": "30:29 Wo", 
+    "Venue": "New York, NY", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Joyciline Jepkosgei", 
+    "Country": "KEN", 
+    "DOB": "08 DEC 1993", 
+    "Date": "01 APR 2017", 
+    "Discipline": "15 Kilometres", 
+    "Perf": "45:37 Mx", 
+    "Venue": "Praha", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Lornah Kiplagat", 
+    "Country": "NED", 
+    "DOB": "01 MAY 1974", 
+    "Date": "14 OCT 2007", 
+    "Discipline": "15 Kilometres", 
+    "Perf": "46:59 Wo", 
+    "Venue": "Udine", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Tegla Loroupe", 
+    "Country": "KEN", 
+    "DOB": "09 MAY 1973", 
+    "Date": "03 SEP 2000", 
+    "Discipline": "20,000 Metres", 
+    "Perf": "1:05:26.6", 
+    "Venue": "Borgholzhausen", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Joyciline Jepkosgei", 
+    "Country": "KEN", 
+    "DOB": "08 DEC 1993", 
+    "Date": "01 APR 2017", 
+    "Discipline": "20 Kilometres", 
+    "Perf": "1:01:25 Mx", 
+    "Venue": "Praha", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Lornah Kiplagat", 
+    "Country": "NED", 
+    "DOB": "01 MAY 1974", 
+    "Date": "14 OCT 2007", 
+    "Discipline": "20 Kilometres", 
+    "Perf": "1:02:57 Wo", 
+    "Venue": "Udine", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Dire Tune", 
+    "Country": "ETH", 
+    "DOB": "19 JUN 1985", 
+    "Date": "12 JUN 2008", 
+    "Discipline": "One Hour", 
+    "Perf": "18.517", 
+    "Venue": "Ostrava", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Joyciline Jepkosgei", 
+    "Country": "KEN", 
+    "DOB": "08 DEC 1993", 
+    "Date": "22 OCT 2017", 
+    "Discipline": "Half Marathon", 
+    "Perf": "1:04:51* Mx", 
+    "Venue": "Valencia, ESP", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Joyciline Jepkosgei", 
+    "Country": "KEN", 
+    "DOB": "08 DEC 1993", 
+    "Date": "01 APR 2017", 
+    "Discipline": "Half Marathon", 
+    "Perf": "1:04:52 Mx", 
+    "Venue": "Praha", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Lornah Kiplagat", 
+    "Country": "NED", 
+    "DOB": "01 MAY 1974", 
+    "Date": "14 OCT 2007", 
+    "Discipline": "Half Marathon", 
+    "Perf": "1:06:25 Wo", 
+    "Venue": "Udine", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Tegla Loroupe", 
+    "Country": "KEN", 
+    "DOB": "09 MAY 1973", 
+    "Date": "21 SEP 2002", 
+    "Discipline": "25,000 Metres", 
+    "Perf": "1:27:05.9", 
+    "Venue": "Mengerskirchen", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Mary Jepkosgei Keitany", 
+    "Country": "KEN", 
+    "DOB": "18 JAN 1982", 
+    "Date": "09 MAY 2010", 
+    "Discipline": "25 Kilometres", 
+    "Perf": "1:19:53 Mx", 
+    "Venue": "Berlin", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Paula Radcliffe", 
+    "Country": "GBR", 
+    "DOB": "17 DEC 1973", 
+    "Date": "14 AUG 2005", 
+    "Discipline": "25 Kilometres", 
+    "Perf": "1:22:47 Wo", 
+    "Venue": "Helsinki", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Tegla Loroupe", 
+    "Country": "KEN", 
+    "DOB": "09 MAY 1973", 
+    "Date": "06 JUN 2003", 
+    "Discipline": "30,000 Metres", 
+    "Perf": "1:45:50.0", 
+    "Venue": "Warstein", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Mary Jepkosgei Keitany", 
+    "Country": "KEN", 
+    "DOB": "18 JAN 1982", 
+    "Date": "23 APR 2017", 
+    "Discipline": "30 Kilometres", 
+    "Perf": "1:36:05 Wo", 
+    "Venue": "London", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Valary Jemeli Aiyabei", 
+    "Country": "KEN", 
+    "DOB": "08 JUN 1991", 
+    "Date": "07 MAY 2017", 
+    "Discipline": "30 Kilometres", 
+    "Perf": "1:38:19* Mx", 
+    "Venue": "Praha", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Aberu Kebede", 
+    "Country": "ETH", 
+    "DOB": "12 SEP 1986", 
+    "Date": "25 SEP 2016", 
+    "Discipline": "30 Kilometres", 
+    "Perf": "1:38:42* Mx", 
+    "Venue": "Berlin", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Mizuki Noguchi", 
+    "Country": "JPN", 
+    "DOB": "3 JUL 1978", 
+    "Date": "25 SEP 2005", 
+    "Discipline": "30 Kilometres", 
+    "Perf": "1:38:49 Mx", 
+    "Venue": "Berlin", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Paula Radcliffe", 
+    "Country": "GBR", 
+    "DOB": "17 DEC 1973", 
+    "Date": "13 APR 2003", 
+    "Discipline": "Marathon", 
+    "Perf": "2:15:25 Mx", 
+    "Venue": "London", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Mary Jepkosgei Keitany", 
+    "Country": "KEN", 
+    "DOB": "18 JAN 1982", 
+    "Date": "23 APR 2017", 
+    "Discipline": "Marathon", 
+    "Perf": "2:17:01 Wo", 
+    "Venue": "London", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Tomoe Abe", 
+    "Country": "JPN", 
+    "DOB": "13 AUG 1971", 
+    "Date": "25 JUN 2000", 
+    "Discipline": "100 Kilometres", 
+    "Perf": "6:33:11", 
+    "Venue": "Yubetsu", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Ruth Jebet", 
+    "Country": "BRN", 
+    "DOB": "17 NOV 1996", 
+    "Date": "27 AUG 2016", 
+    "Discipline": "3000 Metres Steeplechase", 
+    "Perf": "8:52.78", 
+    "Venue": "Paris Saint-Denis (Stade de France)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Kendra Harrison", 
+    "Country": "USA", 
+    "DOB": "18 SEP 1992", 
+    "Date": "22 JUL 2016", 
+    "Discipline": "100 Metres Hurdles", 
+    "Perf": "12.20", 
+    "Venue": "London (Olympic Stadium)", 
+    "Wind": "+0.3"
+  }, 
+  {
+    "Competitor": "Yuliya Pechenkina", 
+    "Country": "RUS", 
+    "DOB": "21 APR 1978", 
+    "Date": "08 AUG 2003", 
+    "Discipline": "400 Metres Hurdles", 
+    "Perf": "52.34", 
+    "Venue": "Tula (Arsenal Stadium)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Stefka Kostadinova", 
+    "Country": "BUL", 
+    "DOB": "25 MAR 1965", 
+    "Date": "30 AUG 1987", 
+    "Discipline": "High Jump", 
+    "Perf": "2.09", 
+    "Venue": "Roma (Stadio Olimpico)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Elena Isinbaeva", 
+    "Country": "RUS", 
+    "DOB": "03 JUN 1982", 
+    "Date": "28 AUG 2009", 
+    "Discipline": "Pole Vault", 
+    "Perf": "5.06", 
+    "Venue": "Z\u00fcrich (Letzigrund)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Galina Chistyakova", 
+    "Country": "URS", 
+    "DOB": "26 JUL 1962", 
+    "Date": "11 JUN 1988", 
+    "Discipline": "Long Jump", 
+    "Perf": "7.52", 
+    "Venue": "Leningrad (Kirov Stadium)", 
+    "Wind": "+1.4"
+  }, 
+  {
+    "Competitor": "Inessa Kravets", 
+    "Country": "UKR", 
+    "DOB": "05 OCT 1966", 
+    "Date": "10 AUG 1995", 
+    "Discipline": "Triple Jump", 
+    "Perf": "15.50", 
+    "Venue": "G\u00f6teborg (Ullevi Stadium)", 
+    "Wind": "+0.9"
+  }, 
+  {
+    "Competitor": "Natalya Lisovskaya", 
+    "Country": "URS", 
+    "DOB": "16 JUL 1962", 
+    "Date": "07 JUN 1987", 
+    "Discipline": "Shot Put", 
+    "Perf": "22.63", 
+    "Venue": "Moskva (Lenin Stadium)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Gabriele Reinsch", 
+    "Country": "GDR", 
+    "DOB": "23 SEP 1963", 
+    "Date": "09 JUL 1988", 
+    "Discipline": "Discus Throw", 
+    "Perf": "76.80", 
+    "Venue": "Neubrandenburg (Jahn Sportpark)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Anita W\u0142odarczyk", 
+    "Country": "POL", 
+    "DOB": "08 AUG 1985", 
+    "Date": "28 AUG 2016", 
+    "Discipline": "Hammer Throw", 
+    "Perf": "82.98", 
+    "Venue": "Warszawa (Stadion Narodowy)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Barbora \u0160pot\u00e1kov\u00e1", 
+    "Country": "CZE", 
+    "DOB": "30 JUN 1981", 
+    "Date": "13 SEP 2008", 
+    "Discipline": "Javelin Throw", 
+    "Perf": "72.28", 
+    "Venue": "Stuttgart (Gottlieb-Daimler Stadion)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Jackie Joyner-Kersee", 
+    "Country": "USA", 
+    "DOB": "03 MAR 1962", 
+    "Date": "24 SEP 1988", 
+    "Discipline": "Heptathlon", 
+    "Perf": "7291", 
+    "Venue": "Seoul (Olympic Stadium)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Austra Skujyte", 
+    "Country": "LTU", 
+    "DOB": "12 AUG 1979", 
+    "Date": "15 APR 2005", 
+    "Discipline": "Decathlon", 
+    "Perf": "8358", 
+    "Venue": "Columbia, MO", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Nadezhda Ryashkina", 
+    "Country": "URS", 
+    "DOB": "22 JAN 1967", 
+    "Date": "24 JUL 1990", 
+    "Discipline": "10,000 Metres Race Walk", 
+    "Perf": "41:56.23", 
+    "Venue": "Seattle, WA", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Olimpiada Ivanova", 
+    "Country": "RUS", 
+    "DOB": "26 AUG 1970", 
+    "Date": "06 SEP 2001", 
+    "Discipline": "20,000 Metres Race Walk", 
+    "Perf": "1:26:52.3", 
+    "Venue": "Brisbane", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Hong Liu", 
+    "Country": "CHN", 
+    "DOB": "12 MAY 1987", 
+    "Date": "06 JUN 2015", 
+    "Discipline": "20 Kilometres Race Walk", 
+    "Perf": "1:24:38", 
+    "Venue": "La Coru\u00f1a", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "In\u00eas Henriques", 
+    "Country": "POR", 
+    "DOB": "01 MAY 1980", 
+    "Date": "13 AUG 2017", 
+    "Discipline": "50 Kilometres Race Walk", 
+    "Perf": "4:05:56", 
+    "Venue": "London (The Mall)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "United States", 
+    "Country": "USA", 
+    "DOB": "", 
+    "Date": "10 AUG 2012", 
+    "Discipline": "4x100 Metres Relay", 
+    "Perf": "40.82", 
+    "Venue": "London (Olympic Stadium)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "United States \"Blue\"", 
+    "Country": "USA", 
+    "DOB": "", 
+    "Date": "29 APR 2000", 
+    "Discipline": "4x200 Metres Relay", 
+    "Perf": "1:27.46", 
+    "Venue": "Philadelphia (Franklin Field), PA", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "USSR", 
+    "Country": "URS", 
+    "DOB": "", 
+    "Date": "01 OCT 1988", 
+    "Discipline": "4x400 Metres Relay", 
+    "Perf": "3:15.17", 
+    "Venue": "Seoul (Olympic Stadium)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "USSR", 
+    "Country": "URS", 
+    "DOB": "", 
+    "Date": "05 AUG 1984", 
+    "Discipline": "4x800 Metres Relay", 
+    "Perf": "7:50.17", 
+    "Venue": "Moskva (Luzhniki)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "Kenya", 
+    "Country": "KEN", 
+    "DOB": "", 
+    "Date": "24 MAY 2014", 
+    "Discipline": "4x1500 Metres Relay", 
+    "Perf": "16:33.58", 
+    "Venue": "Nassau (T. Robinson Stadium)", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "PR of China", 
+    "Country": "CHN", 
+    "DOB": "", 
+    "Date": "28 FEB 1998", 
+    "Discipline": "Road Relay", 
+    "Perf": "2:11:41", 
+    "Venue": "Beijing", 
+    "Wind": ""
+  }, 
+  {
+    "Competitor": "United States", 
+    "Country": "USA", 
+    "DOB": "", 
+    "Date": "02 MAY 2015", 
+    "Discipline": "Distance Medley Relay", 
+    "Perf": "10:36.50", 
+    "Venue": "Nassau (T. Robinson Stadium)", 
+    "Wind": ""
+  }
+]

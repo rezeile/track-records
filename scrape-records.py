@@ -2,10 +2,11 @@
 
 from lxml import html
 import requests
+import json 
 
 IAAF_URI = 'https://www.iaaf.org/records/by-category/world-records'
 TABLE_IDS = ['menoutdoor','womenoutdoor','menindoor','womenindoor']
-OUTPUT_FILES = ['data/men-outdoor.csv','data/women-outdoor.csv','data/men-indoor.csv','data/women-indoor.csv']
+OUTPUT_FILES = ['data/men-outdoor.json','data/women-outdoor.json','data/men-indoor.json','data/women-indoor.json']
 MAX = 4
 
 def getRecordTableElement(table_id):
@@ -17,25 +18,39 @@ def getRecordTableElement(table_id):
 def getText(elem):
   if not elem.getchildren():
     return elem.text.encode('utf-8').strip()
-  return elem.text_content().encode('utf-8').strip()
+  return elem.text_content().encode('utf-8').strip() 
 
-def addTableRowContents(table_rows,file_obj):
+def getTableHeading(table_rows):
+  headers = []
   for row in table_rows:
     children = row.getchildren()
-    for c in children[:-1]:
-       file_obj.write(getText(c) + ", ")
-    file_obj.write(getText(children[-1]) + "\n")
+    for c in children:
+      headers.append(getText(c))
+  return headers
+  
+def getJSONObjects(keys,table_rows,file_obj):
+  json_array = []
+  for row in table_rows:
+    children = row.getchildren()
+    i = 0
+    obj = {}
+    for c in children:
+      obj[keys[i]] = getText(c)
+      i += 1
+    json_array.append(obj)
+  return json_array
 
-def writeRecordCSV(file_name, table_id):
+def writeJSONRecords(file_name, table_id):
   file_obj = open(file_name,"w")
   t = getRecordTableElement(table_id)
   thead = t.getchildren()[0]
-  addTableRowContents(thead.getchildren(),file_obj)
+  keys = getTableHeading(thead.getchildren())
   tbody = t.getchildren()[1]
-  addTableRowContents(tbody.getchildren(),file_obj)
+  json_array = getJSONObjects(keys,tbody.getchildren(),file_obj)
+  file_obj.write(json.dumps(json_array, sort_keys=True, indent=2))
 
 # Main #
 i = 0
 while i < MAX:
-  writeRecordCSV(OUTPUT_FILES[i],TABLE_IDS[i])
+  writeJSONRecords(OUTPUT_FILES[i],TABLE_IDS[i])
   i += 1

@@ -1,0 +1,218 @@
+[
+  {
+    "Competitor": "Irina Privalova", 
+    "Country": "RUS", 
+    "DOB": "22 NOV 1968", 
+    "Date": "09 FEB 1995", 
+    "Discipline": "50 Metres", 
+    "Perf": "5.96", 
+    "Venue": "Madrid"
+  }, 
+  {
+    "Competitor": "Irina Privalova", 
+    "Country": "RUS", 
+    "DOB": "22 NOV 1968", 
+    "Date": "11 FEB 1993", 
+    "Discipline": "60 Metres", 
+    "Perf": "6.92", 
+    "Venue": "Madrid"
+  }, 
+  {
+    "Competitor": "Irina Privalova", 
+    "Country": "RUS", 
+    "DOB": "22 NOV 1968", 
+    "Date": "09 FEB 1995", 
+    "Discipline": "60 Metres", 
+    "Perf": "6.92", 
+    "Venue": "Madrid"
+  }, 
+  {
+    "Competitor": "Merlene Ottey", 
+    "Country": "JAM", 
+    "DOB": "10 MAY 1960", 
+    "Date": "13 FEB 1993", 
+    "Discipline": "200 Metres", 
+    "Perf": "21.87", 
+    "Venue": "Li\u00e9vin"
+  }, 
+  {
+    "Competitor": "Jarmila Kratochv\u00edlov\u00e1", 
+    "Country": "TCH", 
+    "DOB": "26 JAN 1951", 
+    "Date": "07 MAR 1982", 
+    "Discipline": "400 Metres", 
+    "Perf": "49.59", 
+    "Venue": "Milano"
+  }, 
+  {
+    "Competitor": "Jolanda Batagelj", 
+    "Country": "SLO", 
+    "DOB": "12 SEP 1976", 
+    "Date": "03 MAR 2002", 
+    "Discipline": "800 Metres", 
+    "Perf": "1:55.82", 
+    "Venue": "Wien (Dusika-Halle)"
+  }, 
+  {
+    "Competitor": "Maria de Lurdes Mutola", 
+    "Country": "MOZ", 
+    "DOB": "27 OCT 1972", 
+    "Date": "25 FEB 1999", 
+    "Discipline": "1000 Metres", 
+    "Perf": "2:30.94", 
+    "Venue": "Stockholm"
+  }, 
+  {
+    "Competitor": "Genzebe Dibaba", 
+    "Country": "ETH", 
+    "DOB": "08 FEB 1991", 
+    "Date": "01 FEB 2014", 
+    "Discipline": "1500 Metres", 
+    "Perf": "3:55.17", 
+    "Venue": "Karlsruhe (Europahalle)"
+  }, 
+  {
+    "Competitor": "Genzebe Dibaba", 
+    "Country": "ETH", 
+    "DOB": "08 FEB 1991", 
+    "Date": "17 FEB 2016", 
+    "Discipline": "One Mile", 
+    "Perf": "4:13.31*", 
+    "Venue": "Stockholm (Globe Arena)"
+  }, 
+  {
+    "Competitor": "Doina Melinte", 
+    "Country": "ROU", 
+    "DOB": "27 DEC 1956", 
+    "Date": "09 FEB 1990", 
+    "Discipline": "One Mile", 
+    "Perf": "4:17.14", 
+    "Venue": "East Rutherford, NJ"
+  }, 
+  {
+    "Competitor": "Genzebe Dibaba", 
+    "Country": "ETH", 
+    "DOB": "08 FEB 1991", 
+    "Date": "06 FEB 2014", 
+    "Discipline": "3000 Metres", 
+    "Perf": "8:16.60", 
+    "Venue": "Stockholm (Globe Arena)"
+  }, 
+  {
+    "Competitor": "Genzebe Dibaba", 
+    "Country": "ETH", 
+    "DOB": "08 FEB 1991", 
+    "Date": "19 FEB 2015", 
+    "Discipline": "5000 Metres", 
+    "Perf": "14:18.86", 
+    "Venue": "Stockholm (Globe Arena)"
+  }, 
+  {
+    "Competitor": "Cornelia Oschkenat", 
+    "Country": "GDR", 
+    "DOB": "29 OCT 1961", 
+    "Date": "20 FEB 1988", 
+    "Discipline": "50 Metres Hurdles", 
+    "Perf": "6.58", 
+    "Venue": "Berlin (DH)"
+  }, 
+  {
+    "Competitor": "Susanna Kallur", 
+    "Country": "SWE", 
+    "DOB": "16 FEB 1981", 
+    "Date": "10 FEB 2008", 
+    "Discipline": "60 Metres Hurdles", 
+    "Perf": "7.68", 
+    "Venue": "Karlsruhe"
+  }, 
+  {
+    "Competitor": "Kajsa Bergqvist", 
+    "Country": "SWE", 
+    "DOB": "12 OCT 1976", 
+    "Date": "04 FEB 2006", 
+    "Discipline": "High Jump", 
+    "Perf": "2.08", 
+    "Venue": "Arnstadt (Sporthalle)"
+  }, 
+  {
+    "Competitor": "Jennifer Suhr", 
+    "Country": "USA", 
+    "DOB": "05 FEB 1982", 
+    "Date": "02 MAR 2013", 
+    "Discipline": "Pole Vault", 
+    "Perf": "5.02", 
+    "Venue": "Albuquerque, NM"
+  }, 
+  {
+    "Competitor": "Heike Drechsler", 
+    "Country": "GDR", 
+    "DOB": "16 DEC 1964", 
+    "Date": "13 FEB 1988", 
+    "Discipline": "Long Jump", 
+    "Perf": "7.37", 
+    "Venue": "Wien"
+  }, 
+  {
+    "Competitor": "Tatyana Lebedeva", 
+    "Country": "RUS", 
+    "DOB": "21 JUL 1976", 
+    "Date": "06 MAR 2004", 
+    "Discipline": "Triple Jump", 
+    "Perf": "15.36", 
+    "Venue": "Budapest (Sportar\u00e9na)"
+  }, 
+  {
+    "Competitor": "Helena Fibingerov\u00e1", 
+    "Country": "TCH", 
+    "DOB": "13 JUL 1949", 
+    "Date": "19 FEB 1977", 
+    "Discipline": "Shot Put", 
+    "Perf": "22.50", 
+    "Venue": "Jablonec nad Nisou"
+  }, 
+  {
+    "Competitor": "Natallia Dobrynska", 
+    "Country": "UKR", 
+    "DOB": "29 MAY 1982", 
+    "Date": "09 MAR 2012", 
+    "Discipline": "Pentathlon", 
+    "Perf": "5013", 
+    "Venue": "Istanbul (Atak\u00f6y Arena)"
+  }, 
+  {
+    "Competitor": "Claudia Stef", 
+    "Country": "ROU", 
+    "DOB": "25 FEB 1978", 
+    "Date": "30 JAN 1999", 
+    "Discipline": "3000 Metres Race Walk", 
+    "Perf": "11:40.33", 
+    "Venue": "Bucuresti"
+  }, 
+  {
+    "Competitor": "Russia", 
+    "Country": "RUS", 
+    "DOB": "", 
+    "Date": "29 JAN 2005", 
+    "Discipline": "4x200 Metres Relay", 
+    "Perf": "1:32.41", 
+    "Venue": "Glasgow (Kelvin Hall)"
+  }, 
+  {
+    "Competitor": "Russia", 
+    "Country": "RUS", 
+    "DOB": "", 
+    "Date": "28 JAN 2006", 
+    "Discipline": "4x400 Metres Relay", 
+    "Perf": "3:23.37", 
+    "Venue": "Glasgow (Kelvin Hall)"
+  }, 
+  {
+    "Competitor": "Moskva", 
+    "Country": "RUS", 
+    "DOB": "", 
+    "Date": "18 FEB 2011", 
+    "Discipline": "4x800 Metres Relay", 
+    "Perf": "8:06.24", 
+    "Venue": "Moskva"
+  }
+]
