@@ -1,0 +1,32 @@
+{
+  "name": "track-records",
+  "version": "1.0.0",
+  "description": "Track and Field World Records",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezeile/track-world-records.git"
+  },
+  "keywords": [
+    "athletics",
+    "track",
+    "&",
+    "field",
+    "world",
+    "records"
+  ],
+  "author": "Eliezer Abate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rezeile/track-world-records/issues"
+  },
+  "homepage": "https://github.com/rezeile/track-world-records#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "query-string": "^5.0.1",
+    "request": "^2.83.0"
+  }
+}
