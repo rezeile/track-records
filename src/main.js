@@ -1,22 +1,16 @@
 const express = require('express')
 const app = express()
-const parse = require('csv-parse')
 const fs = require('fs')
 
-function parseValues() {
-  var parser = parse({delimiter: ":"}, function(err, data) {
-    console.log(err);
-    console.log(data);
-  });
-  fs.createReadStream("../data/men-outdoor.csv");
-}
+// API Key: AIzaSyDLdRthKBLV8onmtltCvu9-aB96Y-iFsSc
 
 
 app.get('/', function (req, res) {
-  parseValues()
-  res.send('Hello World!')
+  res.send('Hello World!');
 })
 
-app.listen(3000, function () {
-  console.log('Example app')
+app.get('/hi', function (req, res) {
+  res.send('Hi People Whats Up'); 
 })
+
+app.listen(3000);
